@@ -1,6 +1,6 @@
 ## Class Information
 - Name: Muhammad Hasan  
-- Certification: Front End certified 
+- Certification: Meta Front End certification 
 
 ## Instructions
 Please replace the placeholders with your details:
